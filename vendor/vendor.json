@@ -1,0 +1,72 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "BMuQ9BSZ11EX2jxBRMgaZK0B9Go=",
+			"origin": "github.com/iikira/BaiduPCS-Go/vendor/github.com/fatih/color",
+			"path": "github.com/fatih/color",
+			"revision": "36ee23e425b23fc0a295c00728304494f2118bd9",
+			"revisionTime": "2018-03-01T07:30:26Z"
+		},
+		{
+			"checksumSHA1": "vxWpKHYEG4EejsE4Q+nD9udY6ZE=",
+			"path": "github.com/iikira/BaiduPCS-Go/pcstable",
+			"revision": "36ee23e425b23fc0a295c00728304494f2118bd9",
+			"revisionTime": "2018-03-01T07:30:26Z"
+		},
+		{
+			"checksumSHA1": "aGy1rjwVXqWWJI/6Rqp6ifB+O3g=",
+			"path": "github.com/iikira/BaiduPCS-Go/pcsutil",
+			"revision": "36ee23e425b23fc0a295c00728304494f2118bd9",
+			"revisionTime": "2018-03-01T07:30:26Z"
+		},
+		{
+			"checksumSHA1": "MYP+JjTnN3lYGr7rqvMoeaq9Tr8=",
+			"path": "github.com/iikira/BaiduPCS-Go/requester",
+			"revision": "36ee23e425b23fc0a295c00728304494f2118bd9",
+			"revisionTime": "2018-03-01T07:30:26Z"
+		},
+		{
+			"checksumSHA1": "QTw3yb29M7qj22jKcLFMvFx87TQ=",
+			"path": "github.com/iikira/BaiduPCS-Go/requester/multipartreader",
+			"revision": "36ee23e425b23fc0a295c00728304494f2118bd9",
+			"revisionTime": "2018-03-01T07:30:26Z"
+		},
+		{
+			"checksumSHA1": "mEITk8SLRNLbj5buqoP834//RPM=",
+			"path": "github.com/iikira/BaiduPCS-Go/uploader",
+			"revision": "36ee23e425b23fc0a295c00728304494f2118bd9",
+			"revisionTime": "2018-03-01T07:30:26Z"
+		},
+		{
+			"checksumSHA1": "qbs+UsHnPJBPuMGBn5f+ugOzL+4=",
+			"origin": "github.com/iikira/BaiduPCS-Go/vendor/github.com/iikira/osext",
+			"path": "github.com/iikira/osext",
+			"revision": "36ee23e425b23fc0a295c00728304494f2118bd9",
+			"revisionTime": "2018-03-01T07:30:26Z"
+		},
+		{
+			"checksumSHA1": "MNkKJyk2TazKMJYbal5wFHybpyA=",
+			"origin": "github.com/iikira/BaiduPCS-Go/vendor/github.com/mattn/go-runewidth",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "36ee23e425b23fc0a295c00728304494f2118bd9",
+			"revisionTime": "2018-03-01T07:30:26Z"
+		},
+		{
+			"checksumSHA1": "txsZLJ7XQsUIoAze9dD+XHYJguk=",
+			"origin": "github.com/iikira/BaiduPCS-Go/vendor/github.com/olekukonko/tablewriter",
+			"path": "github.com/olekukonko/tablewriter",
+			"revision": "36ee23e425b23fc0a295c00728304494f2118bd9",
+			"revisionTime": "2018-03-01T07:30:26Z"
+		},
+		{
+			"checksumSHA1": "v5CCEZdC63TIkIL8TUeURBcZzNc=",
+			"origin": "github.com/iikira/BaiduPCS-Go/vendor/github.com/shiena/ansicolor",
+			"path": "github.com/shiena/ansicolor",
+			"revision": "36ee23e425b23fc0a295c00728304494f2118bd9",
+			"revisionTime": "2018-03-01T07:30:26Z"
+		}
+	],
+	"rootPath": "tinypng"
+}
